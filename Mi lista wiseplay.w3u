@@ -1,0 +1,86 @@
+﻿{
+    "name": "📺 Lista Dany",
+    "author": "Dany",
+    "url": "http://w3ubin.com/rygtCXxox.w3u",
+	"contact": "",
+    "info": "",
+	"groups": [
+		{
+			"name": "Canales favoritos",
+			"image": "http://icon-icons.com/icons2/20/PNG/256/star_favorite_favorite_favorite_favorite_2360.png",
+			"stations":
+			[
+				{
+                    "name": "Movistar F1",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Logo-f1.png",
+                    "url": "http://www.dinostream.pw/channel.php?file=105716&width=650&height=400&autostart=true",
+                    "referer": "http://09stream.com/canales/formula1.html"
+				},
+				{
+					"name": "Caza y Pesca",
+					"image": "http://s33.postimg.org/lxe00520f/Caza_y_Pesca_Logotipo.jpg",
+					"url": "http://player.livesports.pw/hls//vercazaypesca65b3f60d9f53.m3u8"
+				},
+				{
+					"name": "Discovery Channel",
+					"image": "http://chmembership.com/wp-content/uploads/2016/08/Discovery-Channel-en-vivo.png",
+					"url": "http://kdsajkcasadjsab77676das99saghdshhdds.sitenow.me/live/discoverychannel_bsopiiu/chunklist.m3u8?st=do4y9-oEkX1yvkTSab86ZA&e=1489243135",
+					"referer": "http://verplusonline.com/discovery-channel/"
+				},
+				{
+					"name": "Itv 4",
+					"image": "https://pbs.twimg.com/profile_images/757522795647602688/w0XXjsay.jpg",
+					"url": "http://edge-1183-ch-gv.filmon.com/live/101.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d355dc58a37d7f9ef142691e7c9efeecae425b34203bb339709073237a2a7fabdd0f3f5301141e47aabc10fa1e446f0a21151bc873440659dc0d003005f962cbb39a253a86bdd2497dab4fcc8b79ff29a53cc30d6803a65f5ceee84ac6bb624678db962484e481d94794d27e1f4cc72f851fe48835e1f412c19cc4bc8ff9bd15f13f3f2beb50ae1a2b"
+				}
+			]
+		},
+		{
+			"name": "⚽️ Depotes ⚽️",
+			"image": "https://www.hostinet.com/formacion/wp-content/uploads/2016/01/pelotas-deportes.jpg",
+			"stations": 
+			[
+				{
+					"name": "Eurosport 1",
+					"image": "http://www.sauveteurs-charente.fr/imgs/nuit_de_leau_2012/Eurosport.png",
+					"url": "http://player.livesports.pw/hls//vereurosportsespd6d28a0c0.m3u8"
+				},
+				{
+					"name": "Eurosport 2",
+					"image": "http://www.live-arena.ru/logos/eurosport-2.png",
+					"url": "http://player.livesports.pw/hls//vereurosportsdosespa0a934.m3u8"
+				},
+				{
+					"name": "Sky SPORTS F1",
+					"image": "http://vignette3.wikia.nocookie.net/f1wikia/images/7/77/SkySportsF1.png/revision/latest?cb=20140320200040",
+					"url": "http://194.67.211.62/live/239935.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDE3IDEyOjQ5OjM1IFBNJmhhc2hfdmFsdWU9RktvZmZwZjY5RGtraWt1cVhwemp2QT09JnZhbGlkbWludXRlcz0yODgw&wmsAuthSign2=NTVjMzgwNTAyNWNjNQ=="
+				}
+			]
+		},
+		{
+			"name": "+18️",
+			"image": "http://imagehosting.biz/images/2016/12/26/photo.jpg.png",
+			"stations": 
+			[
+				{
+					"name": "PLAYBOY",
+					"image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/851px-PlayboyLogo.svg.png",
+					"url": "http://player.livesports.pw/hls//ver6fec1df85209490fcdba5c.m3u8"
+				},
+				{
+                    "name": "Hustler TV",
+                    "image": "http://vignette2.wikia.nocookie.net/logopedia/images/3/39/HUSTLER_TV.jpg/revision/latest?cb=20150312135841",
+                    "referer": "http://vercanalestv.com/tv/documentales/caza-y-pesca.html",
+                    "url": "http://tumarcador.xyz/ver/11.php",
+                    "embed": false,
+                    "isHost": true
+				},
+				{
+					"name": "Venus",
+					"image": "https://1.bp.blogspot.com/-STBo-ZOTMj0/Vz-jtEIOJ2I/AAAAAAAAAAo/_AInf23sCVAQXvN91CPfh2v6PMArsrZvQCKgB/s1600/venuz%2Btv.jpg",
+					"url": "http://cdn3.elitegol.xyz/verliga/6/chunks.m3u8?nimblesessionid=13746849&wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDE3IDI6MzE6MjMgUE0maGFzaF92YWx1ZT1ZNU1NOWp5TXdVeDJMYWp2eGVpNEpBPT0mdmFsaWRtaW51dGVzPTEw",
+					"referer": "http://lacalleochotv.org/venus-tv-online-en-directo-gratis/"
+				}
+			]
+		}
+				]
+}
