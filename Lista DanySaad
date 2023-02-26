@@ -1,93 +1,93 @@
 {
-  "name": "LISTA DANYSAAD",
-  "author": "DanySaad",
-  "url": "https://pastebin.com/9rVEkKCb",
-  "image": "https://media1.giphy.com/media/vijrOPnOo9RVC/200.gif",
-  "groups": 
+    "name": "LISTA DANYSAAD",
+    "author": "DanySaad",
+    "url": "",
+    "image": "https://media1.giphy.com/media/vijrOPnOo9RVC/200.gif",
+    "groups": 
     [
-      {
-      "name": "📺 Programación",
-      "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI1NzA4YjA5NDZmOGNiNzE5MzU3ZDgwNDBmOWYzYjc3MTk4ODc0MSZjdD1n/zlLydol7ndM7C/giphy.gif",
-      "stations": 
-	    [
+        {
+            "name": "📺 Programación",
+            "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI1NzA4YjA5NDZmOGNiNzE5MzU3ZDgwNDBmOWYzYjc3MTk4ODc0MSZjdD1n/zlLydol7ndM7C/giphy.gif",
+            "stations": 
+	        [
                 {
-                    "name": "📺 Programación",
-                    "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI1NzA4YjA5NDZmOGNiNzE5MzU3ZDgwNDBmOWYzYjc3MTk4ODc0MSZjdD1n/zlLydol7ndM7C/giphy.gif",
-                    "url": "https://www.marca.com/programacion-tv.html",
-                    "embed": true,
-                    "playInNatPlayer": "true",
-                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+                "name": "📺 Programación",
+                "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI1NzA4YjA5NDZmOGNiNzE5MzU3ZDgwNDBmOWYzYjc3MTk4ODc0MSZjdD1n/zlLydol7ndM7C/giphy.gif",
+                "url": "https://www.marca.com/programacion-tv.html",
+                "embed": "true",
+                "playInNatPlayer": "true",
+                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+                }			
+            ]
+        },		
+        {
+            "name": "🏎 Fórmula 1 🏎",
+            "image": "https://media1.giphy.com/media/vijrOPnOo9RVC/200.gif",
+            "stations": 
+			[
+                {
+                "name": "Fórmula 1 🇪🇸",
+                "image":"https://upload.wikimedia.org/wikipedia/commons/7/70/Logo-f1.png",
+                "url": "acestream://60cf60019aeef9af6183dd05af1b89e25594ac14",
+                "isHost": "true"
+                },
+                {
+                "name": "Fórmula 1 🇪🇸",
+                "image":"https://upload.wikimedia.org/wikipedia/commons/7/70/Logo-f1.png",
+                "url": "acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2",
+                "isHost": "true" 
+                },
+                {
+                "name": "Fórmula 1 🇪🇸",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Logo-f1.png",
+                "url": "acestream://a52bf7c28df63995ad427c32ebf1e517445720bb",
+                "isHost": "true" 
+                },
+                {
+                "name": "Skysport F1 🇬🇧",
+                "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/512px-Sky_Sport_F1_-_Logo_2020.svg.png",
+                "url": "acestream://dcd99613c45c67b921243b1b52726514edfd8c67",
+                "isHost": "true" 
                 }
- 
-             ]
-},
-{
-      "name": "🏎 Fórmula 1 🏎",
-      "image": "https://media1.giphy.com/media/vijrOPnOo9RVC/200.gif",
-      "stations": [
- 
+            ]
+        },		
+		
+        {
+            "name": "⚽️ Deportes ⚽️",
+            "image": "https://media4.giphy.com/media/xUPGct4LThsOiwJg3K/giphy.gif",
+            "stations": 
+			[
                 {
-                           "name": "Fórmula 1 🇪🇸",
-                           "image":"https://upload.wikimedia.org/wikipedia/commons/7/70/Logo-f1.png",
-                           "url": "acestream://60cf60019aeef9af6183dd05af1b89e25594ac14",
-                           "isHost": "true"
+                "name": "EuroSport 1 🇪🇸",
+                "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/230px-Eurosport_1_Logo_2015.svg.png",
+                "url": "acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2",
+                "isHost": "true"
                 },
                 {
-                           "name": "Fórmula 1 🇪🇸",
-                           "image":"https://upload.wikimedia.org/wikipedia/commons/7/70/Logo-f1.png",
-                           "url": "acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2",
-                           "isHost": "true" 
+                "name": "EuroSport 2 🇪🇸",
+                "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/250px-Eurosport_2_Logo_2015.svg.png",
+                "url": "acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01",
+                "isHost": "true"
                 },
                 {
-                           "name": "Fórmula 1 🇪🇸",
-                           "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Logo-f1.png",
-                           "url": "acestream://a52bf7c28df63995ad427c32ebf1e517445720bb",
-                           "isHost": "true" 
+                "name": "ESPN 🇬🇧",
+                "image":"https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN-500x300.png",
+                "url": "acestream://4b4907de51ec11087d4bed5876f2a0c68264f442",
+                "isHost": "true"
                 },
                 {
-                           "name": "Skysport F1 🇬🇧",
-                           "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/512px-Sky_Sport_F1_-_Logo_2020.svg.png",
-                           "url": "acestream://dcd99613c45c67b921243b1b52726514edfd8c67",
-                           "isHost": "true" 
+                "name": "NAZN 1 🇬🇧",
+                "image":"https://tvepg.eu/img/spain/logo/dazn_1.png",
+                "url": "acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd",
+                "isHost": "true"
+                },
+                {
+                "name": "BT Sport 1 🇬🇧",
+                "image": "https://img01.products.bt.co.uk/content/dam/bt/portal/images/system-asset/sport/connected-by-ee/BTSPORT-connected-by-EE-yellow-rev.png",
+                "url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b",
+                "isHost": "true"
                 }
- 
-             ]
-            },
-{
-      "name": "⚽️ Deportes ⚽️",
-      "image": "https://media4.giphy.com/media/xUPGct4LThsOiwJg3K/giphy.gif",
-      "stations": [
-                 {
-                           "name": "EuroSport 1 🇪🇸",
-                     "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/230px-Eurosport_1_Logo_2015.svg.png",
-                           "url": "acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2",
-                           "isHost": "true"
-                },
-                {
-                           "name": "EuroSport 2 🇪🇸",
-                           "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/250px-Eurosport_2_Logo_2015.svg.png",
-                           "url": "acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01",
-                           "isHost": "true"
-                },
-                {
-                           "name": "ESPN 🇬🇧",
-                           "image":"https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN-500x300.png",
-                           "url": "acestream://4b4907de51ec11087d4bed5876f2a0c68264f442",
-                           "isHost": "true"
-                },
-                {
-                           "name": "NAZN 1 🇬🇧",
-                           "image":"https://tvepg.eu/img/spain/logo/dazn_1.png",
-                           "url": "acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd",
-                           "isHost": "true"
-                },
-                {
-                           "name": "BT Sport 1 🇬🇧",
-                           "image": "https://img01.products.bt.co.uk/content/dam/bt/portal/images/system-asset/sport/connected-by-ee/BTSPORT-connected-by-EE-yellow-rev.png",
-                           "url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b",
-                           "isHost": "true"
-                }
-             ]
-           }
-     ]
+            ]
+        }
+    ]
 }
