@@ -1,28 +1,32 @@
-body{
-   background: #9a9a9a;
+header {
+
+   background: #fff;
+
+   position: fixed;
+
+   top: 0;
+
+   left: 0;
+
+   width: 100%;
+
+   z-index: 999px;
+
+   box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+
 }
 
 
-*{
-   padding:0;
-   margin:0;
+
+Or more simply this could work:
+
+
+header  {
+
+   background: #fff;
+
+   position: fixed;
+
 }
 
-header{
-  width:100%;
-  height:50px;
-  box-shadow:1px 1px 5px #000;
-}
 
-#menu{
-  width:450px;
-  padding-top:10;
-  margin:auto;
-}
-
-#menu ul a{
-  color:#000;
-  text-decoration:none;
-  font:16px Verdana;
-}
-  
