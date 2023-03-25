@@ -1,1 +1,11 @@
-background-image: url("https://i.imgur.com/XiRqd4d.png");
+body {
+    padding-left: 11em;
+    font-family: Georgia, "Times New Roman",
+          Times, serif;
+    color: rgba(0, 0, 0, 0);
+    background-image: url("https://i.imgur.com/XiRqd4d.png");
+    background-repeat: repeat-x;
+    background-position: 0 0;
+    background-attachment: fixed;
+  }
+  
